@@ -1,8 +1,6 @@
 ## Fakecode的空间
 
-You can use the [editor on GitHub](https://github.com/Matrixdeveloper/Matrixdeveloper.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我的主页目前仅作为跳转服务器页面使用
 
 ### Markdown
 
